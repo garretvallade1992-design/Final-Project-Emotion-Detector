@@ -1,4 +1,6 @@
-# Repository for Final project
+# Repository for Final Project
+
+Final Project
 
 # Emotion Detection Web Application
 
